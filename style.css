@@ -1572,13 +1572,11 @@ body {
 
   height: 11vmin;
   width: 11vmin;
-  -webkit-animation: love-burst 3s infinite 0s;
-  animation: love-burst 3s infinite 0s;
-  box-shadow: inset 0 0 0 5.5vmin transparent;
-  -webkit-transform: translate(0, 0.05em) scale(0);
-  transform: translate(0, 0.05em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(2) {
@@ -1586,13 +1584,11 @@ body {
   left: 14%;
   height: 20vmin;
   width: 20vmin;
-  -webkit-animation: love-burst 3s infinite 0.15s;
-  animation: love-burst 3s infinite 0.15s;
-  box-shadow: inset 0 0 0 10vmin transparent;
-  -webkit-transform: translate(0, 0.75em) scale(0);
-  transform: translate(0, 0.75em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(3) {
@@ -1600,13 +1596,11 @@ body {
   left: 49%;
   height: 4vmin;
   width: 4vmin;
-  -webkit-animation: love-burst 3s infinite 0.3s;
-  animation: love-burst 3s infinite 0.3s;
-  box-shadow: inset 0 0 0 2vmin transparent;
-  -webkit-transform: translate(0, 0.5em) scale(0);
-  transform: translate(0, 0.5em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(4) {
@@ -1614,13 +1608,11 @@ body {
   left: 93%;
   height: 3vmin;
   width: 3vmin;
-  -webkit-animation: love-burst 3s infinite 0.45s;
-  animation: love-burst 3s infinite 0.45s;
-  box-shadow: inset 0 0 0 1.5vmin transparent;
-  -webkit-transform: translate(0, 0.35em) scale(0);
-  transform: translate(0, 0.35em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(5) {
@@ -1628,13 +1620,11 @@ body {
   left: 56%;
   height: 18vmin;
   width: 18vmin;
-  -webkit-animation: love-burst 3s infinite 0.6s;
-  animation: love-burst 3s infinite 0.6s;
-  box-shadow: inset 0 0 0 9vmin transparent;
-  -webkit-transform: translate(0, 0.3em) scale(0);
-  transform: translate(0, 0.3em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(6) {
@@ -1642,13 +1632,11 @@ body {
   left: 68%;
   height: 5vmin;
   width: 5vmin;
-  -webkit-animation: love-burst 3s infinite 0.75s;
-  animation: love-burst 3s infinite 0.75s;
-  box-shadow: inset 0 0 0 2.5vmin transparent;
-  -webkit-transform: translate(0, 1.1em) scale(0);
-  transform: translate(0, 1.1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(7) {
@@ -1656,13 +1644,11 @@ body {
   left: 1%;
   height: 5vmin;
   width: 5vmin;
-  -webkit-animation: love-burst 3s infinite 0.9s;
-  animation: love-burst 3s infinite 0.9s;
-  box-shadow: inset 0 0 0 2.5vmin transparent;
-  -webkit-transform: translate(0, 0.15em) scale(0);
-  transform: translate(0, 0.15em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(8) {
@@ -1670,13 +1656,11 @@ body {
   left: 51%;
   height: 11vmin;
   width: 11vmin;
-  -webkit-animation: love-burst 3s infinite 1.05s;
-  animation: love-burst 3s infinite 1.05s;
-  box-shadow: inset 0 0 0 5.5vmin transparent;
-  -webkit-transform: translate(0, 1.05em) scale(0);
-  transform: translate(0, 1.05em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(9) {
@@ -1684,13 +1668,11 @@ body {
   left: 30%;
   height: 11vmin;
   width: 11vmin;
-  -webkit-animation: love-burst 3s infinite 1.2s;
-  animation: love-burst 3s infinite 1.2s;
-  box-shadow: inset 0 0 0 5.5vmin transparent;
-  -webkit-transform: translate(0, 1em) scale(0);
-  transform: translate(0, 1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(10) {
@@ -1698,13 +1680,11 @@ body {
   left: 10%;
   height: 15vmin;
   width: 15vmin;
-  -webkit-animation: love-burst 3s infinite 1.35s;
-  animation: love-burst 3s infinite 1.35s;
-  box-shadow: inset 0 0 0 9.5vmin transparent;
-  -webkit-transform: translate(0, 1em) scale(0);
-  transform: translate(0, 1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(11) {
@@ -1712,13 +1692,11 @@ body {
   left: 7%;
   height: 14vmin;
   width: 14vmin;
-  -webkit-animation: love-burst 3s infinite 1.5s;
-  animation: love-burst 3s infinite 1.5s;
-  box-shadow: inset 0 0 0 7vmin transparent;
-  -webkit-transform: translate(0, 0.1em) scale(0);
-  transform: translate(0, 0.1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(12) {
@@ -1726,13 +1704,11 @@ body {
   left: 8%;
   height: 15vmin;
   width: 15vmin;
-  -webkit-animation: love-burst 3s infinite 1.65s;
-  animation: love-burst 3s infinite 1.65s;
-  box-shadow: inset 0 0 0 8.5vmin transparent;
-  -webkit-transform: translate(0, 0.2em) scale(0);
-  transform: translate(0, 0.2em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(13) {
@@ -1740,13 +1716,11 @@ body {
   left: 81%;
   height: 16vmin;
   width: 16vmin;
-  -webkit-animation: love-burst 3s infinite 1.8s;
-  animation: love-burst 3s infinite 1.8s;
-  box-shadow: inset 0 0 0 8vmin transparent;
-  -webkit-transform: translate(0, 0.1em) scale(0);
-  transform: translate(0, 0.1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(14) {
@@ -1754,13 +1728,11 @@ body {
   left: 88%;
   height: 3vmin;
   width: 3vmin;
-  -webkit-animation: love-burst 3s infinite 1.95s;
-  animation: love-burst 3s infinite 1.95s;
-  box-shadow: inset 0 0 0 1.5vmin transparent;
-  -webkit-transform: translate(0, 0.45em) scale(0);
-  transform: translate(0, 0.45em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(15) {
@@ -1768,13 +1740,11 @@ body {
   left: 1%;
   height: 9vmin;
   width: 9vmin;
-  -webkit-animation: love-burst 3s infinite 2.1s;
-  animation: love-burst 3s infinite 2.1s;
-  box-shadow: inset 0 0 0 4.5vmin transparent;
-  -webkit-transform: translate(0, 0.05em) scale(0);
-  transform: translate(0, 0.05em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(16) {
@@ -1782,13 +1752,11 @@ body {
   left: 51%;
   height: 8vmin;
   width: 8vmin;
-  -webkit-animation: love-burst 3s infinite 2.25s;
-  animation: love-burst 3s infinite 2.25s;
-  box-shadow: inset 0 0 0 4vmin transparent;
-  -webkit-transform: translate(0, 1.15em) scale(0);
-  transform: translate(0, 1.15em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(17) {
@@ -1796,13 +1764,11 @@ body {
   left: 65%;
   height: 11vmin;
   width: 11vmin;
-  -webkit-animation: love-burst 3s infinite 2.4s;
-  animation: love-burst 3s infinite 2.4s;
-  box-shadow: inset 0 0 0 5.5vmin transparent;
-  -webkit-transform: translate(0, 0.2em) scale(0);
-  transform: translate(0, 0.2em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(18) {
@@ -1810,13 +1776,11 @@ body {
   left: 83%;
   height: 15vmin;
   width: 15vmin;
-  -webkit-animation: love-burst 3s infinite 2.55s;
-  animation: love-burst 3s infinite 2.55s;
-  box-shadow: inset 0 0 0 9vmin transparent;
-  -webkit-transform: translate(0, 0.9em) scale(0);
-  transform: translate(0, 0.9em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(19) {
@@ -1824,13 +1788,11 @@ body {
   left: 86%;
   height: 12vmin;
   width: 12vmin;
-  -webkit-animation: love-burst 3s infinite 2.7s;
-  animation: love-burst 3s infinite 2.7s;
-  box-shadow: inset 0 0 0 6vmin transparent;
-  -webkit-transform: translate(0, 0.65em) scale(0);
-  transform: translate(0, 0.65em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 .bubble:nth-child(20) {
@@ -1838,13 +1800,11 @@ body {
   left: 24%;
   height: 15vmin;
   width: 15vmin;
-  -webkit-animation: love-burst 3s infinite 2.85s;
-  animation: love-burst 3s infinite 2.85s;
-  box-shadow: inset 0 0 0 9.5vmin transparent;
-  -webkit-transform: translate(0, 0.2em) scale(0);
-  transform: translate(0, 0.2em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 
@@ -1853,13 +1813,11 @@ body {
   left: 51%;
   height: 8vmin;
   width: 8vmin;
-  -webkit-animation: love-burst 3s infinite 0.55s;
-  animation: love-burst 3s infinite 0.55s;
-  box-shadow: inset 0 0 0 2vmin transparent;
-  -webkit-transform: translate(0, 0.5em) scale(0);
-  transform: translate(0, 0.5em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 }
 
@@ -1869,13 +1827,11 @@ body {
   left: 11%;
   height: 8vmin;
   width: 8vmin;
-  -webkit-animation: love-burst 3s infinite 0.3s;
-  animation: love-burst 3s infinite 0.3s;
-  box-shadow: inset 0 0 0 2vmin transparent;
-  -webkit-transform: translate(0, 0.5em) scale(0);
-  transform: translate(0, 0.5em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
   
 
@@ -1886,13 +1842,11 @@ body {
   left: 27%;
   height: 8vmin;
   width: 8vmin;
-  -webkit-animation: love-burst 3s infinite 1.95s;
-  animation: love-burst 3s infinite 1.95s;
-  box-shadow: inset 0 0 0 2vmin transparent;
-  -webkit-transform: translate(0, 0.5em) scale(0);
-  transform: translate(0, 0.5em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 
 }
@@ -1902,13 +1856,11 @@ body {
   left: 58%;
   height: 8vmin;
   width: 8vmin;
-  -webkit-animation: love-burst 3s infinite 2.25s;
-  animation: love-burst 3s infinite 2.25s;
-  box-shadow: inset 0 0 0 9.5vmin transparent;
-  -webkit-transform: translate(0, 1em) scale(0);
-  transform: translate(0, 1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 
 }
@@ -1919,13 +1871,11 @@ body {
   left: 85%;
   height: 15vmin;
   width: 15vmin;
-  -webkit-animation: love-burst 3s infinite 1.3s;
-  animation: love-burst 3s infinite 1.3s;
-  box-shadow: inset 0 0 0 2vmin transparent;
-  -webkit-transform: translate(0, 0.5em) scale(0);
-  transform: translate(0, 0.5em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 
 }
@@ -1935,13 +1885,11 @@ body {
   left: 19%;
   height: 8vmin;
   width: 8vmin;
-  -webkit-animation: love-burst 3s infinite 1.95s;
-  animation: love-burst 3s infinite 1.95s;
-  box-shadow: inset 0 0 0 9.5vmin transparent;
-  -webkit-transform: translate(0, 1em) scale(0);
-  transform: translate(0, 1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 }
 
@@ -1950,11 +1898,11 @@ body {
   left: 48%;
   height: 9vmin;
   width: 9vmin;
-  -webkit-animation: love-burst s ;
-  animation: love-burst 1s ;
-  box-shadow: inset 0 0 0 1.5vmin transparent;
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 
 }
@@ -1964,13 +1912,11 @@ body {
   left: 68%;
   height: 15vmin;
   width: 15vmin;
-  -webkit-animation: love-burst 4s infinite 1.55s;
-  animation: love-burst 4s infinite 1.55s;
-  box-shadow: inset 0 0 0 9.5vmin transparent;
-  -webkit-transform: translate(0, 1em) scale(0);
-  transform: translate(0, 1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
     position: absolute;
 }
 
@@ -1979,13 +1925,11 @@ body {
   left: 45%;
   height: 15vmin;
   width: 15vmin;
-  -webkit-animation: love-burst 3s infinite 1.35s;
-  animation: love-burst 3s infinite 1.35s;
-  box-shadow: inset 0 0 0 9.5vmin transparent;
-  -webkit-transform: translate(0, 1em) scale(0);
-  transform: translate(0, 1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 }
 
@@ -1994,13 +1938,11 @@ body {
   left: 85%;
   height: 8vmin;
   width: 8vmin;
-  -webkit-animation: love-burst 3s infinite 1.95s;
-  animation: love-burst 3s infinite 1.95s;
-  box-shadow: inset 0 0 0 9.5vmin transparent;
-  -webkit-transform: translate(0, 1em) scale(0);
-  transform: translate(0, 1em) scale(0);
-  -webkit-transform-origin: center bottom;
-  transform-origin: center bottom;
+  border-radius: 50%;
+  border: 3px solid rgb(18, 226, 129);
+  background: transparent;
+
+  animation: love-burst 3s infinite ease-out 1.95s;
   position: absolute;
 }
 
@@ -2014,13 +1956,16 @@ body {
 }
 
 @keyframes love-burst {
-  50%,
+  0% {
+    transform: scale(0);
+    opacity: 1;
+  }
   100% {
-    box-shadow: inset 0 0 0 0 rgb(18, 226, 129);
-    -webkit-transform: translate(0, 0) scale(1);
-    transform: translate(0, 0) scale(1);
+    transform: scale(3);
+    opacity: 0;
   }
 }
+
 
 
 .heart {
